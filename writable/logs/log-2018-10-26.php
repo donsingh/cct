@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') || exit('No direct script access allowed'); ?>
+
+WARNING - 2018-10-26 03:11:33:505521 --> This is a test log
+WARNING - 2018-10-26 03:11:33:507363 --> This is a test log
+WARNING - 2018-10-26 03:13:06:959580 --> This is a test log
+WARNING - 2018-10-26 03:13:06:961430 --> This is a test log
+WARNING - 2018-10-26 03:14:17:570398 --> This is a test log
+WARNING - 2018-10-26 03:14:17:572218 --> This is a test log
+WARNING - 2018-10-26 03:15:55:568392 --> This is a test log
+WARNING - 2018-10-26 03:15:55:570235 --> This is a test log
+WARNING - 2018-10-26 03:20:40:434134 --> This is a test log
+WARNING - 2018-10-26 03:20:40:435926 --> This is a test log
+WARNING - 2018-10-26 03:24:16:158642 --> This is a test log
+WARNING - 2018-10-26 03:24:16:160478 --> This is a test log
+WARNING - 2018-10-26 09:26:14:289159 --> This is a test log
+WARNING - 2018-10-26 09:26:14:291110 --> This is a test log
+WARNING - 2018-10-26 09:27:42:493992 --> This is a test log
+WARNING - 2018-10-26 09:27:42:495805 --> This is a test log
+WARNING - 2018-10-26 09:29:19:824286 --> This is a test log
+WARNING - 2018-10-26 09:29:19:826128 --> This is a test log
+WARNING - 2018-10-26 09:30:39:440098 --> This is a test log
+WARNING - 2018-10-26 09:30:39:441937 --> This is a test log
+WARNING - 2018-10-26 09:38:25:162683 --> This is a test log
+WARNING - 2018-10-26 09:38:25:164514 --> This is a test log
+WARNING - 2018-10-26 09:40:25:851558 --> This is a test log
+WARNING - 2018-10-26 09:40:25:853409 --> This is a test log
+WARNING - 2018-10-26 09:41:47:562843 --> This is a test log
+WARNING - 2018-10-26 09:41:47:564657 --> This is a test log
+WARNING - 2018-10-26 10:33:42:405441 --> This is a test log
+WARNING - 2018-10-26 10:33:42:407494 --> This is a test log
+WARNING - 2018-10-26 11:08:47:750581 --> This is a test log
+WARNING - 2018-10-26 11:08:47:752629 --> This is a test log
